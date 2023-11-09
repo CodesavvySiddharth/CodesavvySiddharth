@@ -50,7 +50,9 @@
 </p>
 
 
-
+<h3>
+  Some Quotes ✨✨✨
+</h3>
 <ul>
   <li>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.</li>
   <li>Don’t practice until you get it right. Practice until you can’t get it wrong.</li>
