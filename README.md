@@ -7,7 +7,12 @@
 <div>
 <img align="center" height="220" src="https://i.imgur.com/4ASafy0.png">
 </div>
+<br>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Nice+To+Meet+You+...&center=true"></a>
 
+</p>
 <h3>
   Skills 💼
 </h3>
