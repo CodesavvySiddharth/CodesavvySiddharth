@@ -2,7 +2,7 @@
 
  
 <div>
-<img align="center" height="270" src="https://i.imgur.com/4ASafy0.png">
+<img align="center" height="220" src="https://i.imgur.com/4ASafy0.png">
 </div>
 
 <h3>
@@ -54,7 +54,7 @@
 
 
 <!-- GIF -->
-<img align="right" height="320" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 <h3>
   Some Quotes ✨✨✨
 </h3>
