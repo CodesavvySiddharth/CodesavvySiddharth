@@ -8,10 +8,11 @@
 <br>
 <!-- GIF -->
 <img align="right" height="300" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesavvySiddharth&theme=algolia)
 
 
-
+<br>
 <h3>
   Skills 💼
 </h3>
