@@ -51,12 +51,13 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-<!-- GIF -->
-<img align="right" height="250" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesavvySiddharth&theme=algolia)
+<br>
 
-
+<!-- GIF -->
+<img align="right" height="320" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 <h3>
   Some Quotes ✨✨✨
 </h3>
