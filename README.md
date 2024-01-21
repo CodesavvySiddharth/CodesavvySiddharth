@@ -6,10 +6,7 @@
 
 [![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)](https://CodesavvySiddharth-80048.io)
 <br>
-<!-- GIF -->
-<img align="right" height="250" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesavvySiddharth&theme=algolia)
 
 <h3>
   Skills 💼
@@ -53,6 +50,11 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
+
+<!-- GIF -->
+<img align="right" height="250" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesavvySiddharth&theme=algolia)
 
 
 <h3>
