@@ -11,8 +11,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesavvySiddharth&theme=algolia)
 
-
-<br>
 <h3>
   Skills 💼
 </h3>
