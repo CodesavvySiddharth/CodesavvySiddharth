@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Codesavvy Siddharth</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodesavvySiddharth&color=blueviolet&style=flat">
+</p>
  
 <div>
 <img align="center" height="220" src="https://i.imgur.com/4ASafy0.png">
