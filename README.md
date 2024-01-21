@@ -2,7 +2,7 @@
 
  
 <div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
+<img align="center" height="270" src="https://i.imgur.com/4ASafy0.png">
 </div>
 
 <h3>
@@ -51,7 +51,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesavvySiddharth&theme=algolia)
-<br>
+
 
 <!-- GIF -->
 <img align="right" height="320" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
